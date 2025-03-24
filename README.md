@@ -1,5 +1,5 @@
 # FastFood Dashboard
-
+<!-- 
 ## Design Reference
 
 ![design](https://user-images.githubusercontent.com/46664170/128390589-2bfbd3f1-f987-4ae4-a7e0-68633bc94420.jpg)
@@ -22,4 +22,4 @@ The code and styles are licensed under the MIT license.
 
 ## Credit
 Design Reference - Unknown (present)\
-All images source - [https://freepngimg.com/](https://freepngimg.com/)# food
+All images source - [https://freepngimg.com/](https://freepngimg.com/)# food -->
